@@ -1,0 +1,26 @@
+body
+{
+    background-color:lightgray;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.pic
+{
+    background-image: url('https://img.freepik.com/premium-photo/forest-with-path-full-fireflies_147933-7512.jpg');
+    background-size:cover;
+}
+#textBox1
+{
+    background-color:aquamarine;
+    opacity: 0.6;
+}
+#textBox2
+{
+    background-color:aquamarine;
+    opacity: 0.6;
+}
+#textBox3
+{
+    background-color:aquamarine;
+    opacity: 0.6;
+}
